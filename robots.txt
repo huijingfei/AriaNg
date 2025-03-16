@@ -1,4 +1,3 @@
 # AriaNg
-
 User-agent: *
-Disallow: /
+Allow: /
